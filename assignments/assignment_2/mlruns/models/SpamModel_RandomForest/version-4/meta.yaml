@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741099059278
+current_stage: None
+description: null
+last_updated_timestamp: 1741099059278
+name: SpamModel_RandomForest
+run_id: b1c63d4611cd476d86ebba3816e3dd95
+run_link: null
+source: file:///g:/Desktop/CMI_DS/semester_IV/applied_machine_learning/assignments/assignment_2/mlruns/958205537942657616/b1c63d4611cd476d86ebba3816e3dd95/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///g:/Desktop/CMI_DS/semester_IV/applied_machine_learning/assignments/assignment_2/mlruns/958205537942657616/b1c63d4611cd476d86ebba3816e3dd95/artifacts/model
+user_id: null
+version: 4

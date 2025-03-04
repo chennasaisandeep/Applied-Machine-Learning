@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741099080903
+current_stage: None
+description: null
+last_updated_timestamp: 1741099080903
+name: SpamModel_XGBoost
+run_id: 6f0d80c1d91345ce9d58e20935ff4c01
+run_link: null
+source: file:///g:/Desktop/CMI_DS/semester_IV/applied_machine_learning/assignments/assignment_2/mlruns/958205537942657616/6f0d80c1d91345ce9d58e20935ff4c01/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///g:/Desktop/CMI_DS/semester_IV/applied_machine_learning/assignments/assignment_2/mlruns/958205537942657616/6f0d80c1d91345ce9d58e20935ff4c01/artifacts/model
+user_id: null
+version: 3

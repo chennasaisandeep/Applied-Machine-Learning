@@ -1,0 +1,15 @@
+artifact_uri: file:///g:/Desktop/CMI_DS/semester_IV/applied_machine_learning/assignments/assignment_2/mlruns/958205537942657616/88d93b10c3ce42eca1f2933f727b88c4/artifacts
+end_time: 1741099037991
+entry_point_name: ''
+experiment_id: '958205537942657616'
+lifecycle_stage: active
+run_id: 88d93b10c3ce42eca1f2933f727b88c4
+run_name: LogisticRegression_Tuning
+run_uuid: 88d93b10c3ce42eca1f2933f727b88c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741099007145
+status: 3
+tags: []
+user_id: saisa

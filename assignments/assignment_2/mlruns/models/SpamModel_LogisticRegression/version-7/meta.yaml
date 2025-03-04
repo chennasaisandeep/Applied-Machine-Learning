@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741099037963
+current_stage: None
+description: null
+last_updated_timestamp: 1741099037963
+name: SpamModel_LogisticRegression
+run_id: 88d93b10c3ce42eca1f2933f727b88c4
+run_link: null
+source: file:///g:/Desktop/CMI_DS/semester_IV/applied_machine_learning/assignments/assignment_2/mlruns/958205537942657616/88d93b10c3ce42eca1f2933f727b88c4/artifacts/best_model
+status: READY
+status_message: null
+storage_location: file:///g:/Desktop/CMI_DS/semester_IV/applied_machine_learning/assignments/assignment_2/mlruns/958205537942657616/88d93b10c3ce42eca1f2933f727b88c4/artifacts/best_model
+user_id: null
+version: 7

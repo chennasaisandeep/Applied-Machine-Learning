@@ -1,0 +1,15 @@
+artifact_uri: file:///g:/Desktop/CMI_DS/semester_IV/applied_machine_learning/assignments/assignment_2/mlruns/958205537942657616/e301f2146c854398baa7a1263af63dcd/artifacts
+end_time: 1741099092246
+entry_point_name: ''
+experiment_id: '958205537942657616'
+lifecycle_stage: active
+run_id: e301f2146c854398baa7a1263af63dcd
+run_name: XGBoost_Tuning
+run_uuid: e301f2146c854398baa7a1263af63dcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741099063789
+status: 3
+tags: []
+user_id: saisa

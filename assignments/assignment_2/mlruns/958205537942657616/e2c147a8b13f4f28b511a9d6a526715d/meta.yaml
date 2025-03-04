@@ -1,0 +1,15 @@
+artifact_uri: file:///g:/Desktop/CMI_DS/semester_IV/applied_machine_learning/assignments/assignment_2/mlruns/958205537942657616/e2c147a8b13f4f28b511a9d6a526715d/artifacts
+end_time: 1741099021107
+entry_point_name: ''
+experiment_id: '958205537942657616'
+lifecycle_stage: active
+run_id: e2c147a8b13f4f28b511a9d6a526715d
+run_name: LogisticRegression_Combination
+run_uuid: e2c147a8b13f4f28b511a9d6a526715d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741099017037
+status: 3
+tags: []
+user_id: saisa
