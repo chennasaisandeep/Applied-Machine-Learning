@@ -8,7 +8,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from score import score, load_model
 
 # Path to the saved pipeline model (includes the vectorizer)
-MODEL_PATH = r'G:\Desktop\CMI_DS\semester_IV\applied_machine_learning\assignments\assignment_2\best_model_LogisticRegression.pkl'
+MODEL_PATH = r'G:\Desktop\CMI_DS\semester_IV\applied_machine_learning\assignments\assignment_3\best_model\best_model_LogisticRegression.pkl'
 
 # Load model once at startup
 model = load_model(MODEL_PATH)
