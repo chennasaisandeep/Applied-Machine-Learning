@@ -300,4 +300,4 @@ def test_docker():
 if __name__ == "__main__":
     import os
     # Run tests with coverage and save output to coverage.txt
-    os.system("pytest -v --cov=score --cov=app --cov-report=term test.py > coverage.txt")
+    os.system("pytest -v --cov=score --cov=app --cov=test --cov-report=term test.py > coverage.txt")
